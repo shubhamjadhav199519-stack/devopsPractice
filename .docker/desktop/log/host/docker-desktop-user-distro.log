@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------->8
+[2026-07-03T12:42:08.599258266Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/shubh/.docker/contexts
+[2026-07-03T12:42:08.621895240Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/shubh/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/shubh/.docker/contexts
+-------------------------------------------------------------------------------->8
+[2026-07-03T12:42:08.868419974Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/shubh/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+[2026-07-03T12:42:09.140724185Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/shubh/.azure, linkPath = <HOME>/.azure
+-------------------------------------------------------------------------------->8
+[2026-07-03T12:42:09.404453679Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/shubh/.docker/features.json, linkPath = ~/.docker/features.json
